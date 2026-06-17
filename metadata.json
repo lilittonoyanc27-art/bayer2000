@@ -1,0 +1,6 @@
+{
+  "name": "Aprende Español: Gor y Gayane",
+  "description": "Spanish learning game for Gor and Gayane: Millionaire trivia on Futuro Simple & Perfecto, and interactive Restaurant Dialogue practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
